@@ -1,0 +1,15 @@
+.border {
+        width: 900px;
+        height: 800px;
+        margin: auto;
+      }
+      .bg {
+        background-image: url("Desert.jpg");
+        height: 500px;
+        box-shadow: 5px 5px 5px 5px;
+      }
+      .name {
+        font-size: 70px;
+        text-shadow: 5px -5px 5px;
+        text-align: center;
+      }
